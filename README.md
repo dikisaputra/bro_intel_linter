@@ -1,3 +1,8 @@
+<a href="https://scan.coverity.com/projects/aeppert-bro_intel_linter">
+  <img alt="Coverity Scan Build Status"
+       src="https://img.shields.io/coverity/scan/9911.svg"/>
+</a>
+
 # bro_intel_linter
 Bro Intel Feed Linter
 The bro_intel_linter was built to verify all the appropriate tab separation, naming and verification of the single character fields ('-', 'T', 'F').
